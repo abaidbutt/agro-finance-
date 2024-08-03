@@ -65,21 +65,21 @@ Start the development server:
 npm run dev
 # or
 yarn dev
+```
+# Usage
+### Select the culture for sowing:
 
-### Usage
-## Select the culture for sowing:
-
-# Corn
-# Wheat
-# Soy
+## Corn
+## Wheat
+## Soy
 ## Input the required data:
 
-**Surface area in Ar
-Price of oil in rsd
-Price of an acre lease in rsd
-Service allowance price per hectare in rsd
-Fertilizer details (type, amount per acre, sack mass, number of bags, price per bag)
-Plowing, planting, harrowing, sowing, protection, intermediate cultivation, and harvesting service costs
-Herbicide details (number of bottles, price per bottle)
-Review total costs calculated for each activity.
-**
+### Surface area in Ar
+### Price of oil in rsd
+### Price of an acre lease in rsd
+### Service allowance price per hectare in rsd
+### Fertilizer details (type, amount per acre, sack mass, number of bags, price per bag)
+### Plowing, planting, harrowing, sowing, protection, intermediate cultivation, and harvesting service costs
+### Herbicide details (number of bottles, price per bottle)
+### Review total costs calculated for each activity.
+
